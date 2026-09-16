@@ -15,7 +15,7 @@ WeMart is a **full-stack MERN (MongoDB, Express, React, Node.js)** grocery app. 
 - Save delivery addresses
 - Checkout with:
   - **Cash on Delivery (COD)**
-- View order history and real-time payment status
+- View order history
 
 ###  Seller/Admin
 - Secure login (email + password via environment vars)
